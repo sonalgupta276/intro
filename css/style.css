@@ -1,0 +1,17 @@
+/*Custom style sheet for presentation*/
+
+#sec1 img, #sec4 img
+{  
+  z-index: -1;
+  position:absolute;
+  top:-3%;
+  left: -37%;
+  border: 0;
+  max-width: 500%;
+  width: 175%;
+  height: 110%;
+  max-height: 500%;
+  opacity: 0.2;
+}
+
+
